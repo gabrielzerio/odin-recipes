@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+    max-width: max-content;
+    background-image: url("../images/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    margin-top: 180px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+    border: 2px solid green;
+    border-radius: 2px;
+
+}
+li{
+    padding: 5px;
+    font-style: oblique;
+}
+a{
+    color:brown;
+}
+
