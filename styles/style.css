@@ -1,12 +1,12 @@
 body{
-    margin: 0 auto;
-    max-width: max-content;
     background-image: url("../images/wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 #title{
     margin-top: 180px;
+    display: flex;
+    justify-content: center;
     font-style: italic;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -21,5 +21,9 @@ li{
 }
 a{
     color:brown;
+}
+.container{
+    display: flex;
+    justify-content: center;
 }
 
